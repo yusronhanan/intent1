@@ -1,8 +1,8 @@
 ## Intent1
 
 ##Screenshot
-![SCREENSHOT 1]()
-![SCREENSHOT 2]()
+![SCREENSHOT 1](https://github.com/yusronhanan/intent1/blob/master/1.jpeg)
+![SCREENSHOT 2](https://github.com/yusronhanan/intent1/blob/master/1b.jpeg)
 
 ## Identitas
 - NAMA : Yusron Hanan Zain Vidi Imtinan
